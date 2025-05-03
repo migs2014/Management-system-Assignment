@@ -1,6 +1,6 @@
 # Management-system-Assignment
-    ## QUESTION 1
-## README: School Record Database System  
+##    QUESTION 1
+##  School Record Database System  
 
 ### **Project Title:**  
 **School Database System**  
@@ -46,12 +46,7 @@ This project defines a structured relational database system for managing studen
      DELETE FROM student WHERE studentID = 1;
      ```
 
-### **Additional Notes:**  
-- Modify table structures based on school-specific needs (e.g., expanding pathways or subjects).  
-- Add indexing for optimized performance on large datasets.  
-- Implement stored procedures for automated record updates if needed.  
-
-Let me know if you need a more detailed breakdown or additional features! 🚀  
+ 
 
 
 
